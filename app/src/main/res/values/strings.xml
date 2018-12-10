@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MarriageInvitation</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Marriage Invitation</string>
+    <string name="nav_header_subtitle">info@ubikasoftwares.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="cat">Categories</string>
+    <string name="submit">Submit</string>
+    <string name="invitees_details">Invitees Details</string>
+    <string name="invited_by">Invited By</string>
+    <string name="date">Date</string>
+    <string name="view_location">View Location</string>
+    <string name="invited">Invite</string>
+    <string name="uninvite">UnInvite</string>
+    <string name="mrginv">MarriageInvitation</string>
+    <string name="designed_and_developed_by_ubika_softwares">Designed and Developed By Ubika Softwares</string>
+    <string name="add_invitees">Add Invitees</string>
+    <string name="view_invitees">View Invitees</string>
+    <string name="view_invited">Invited</string>
+    <string name="view_to_be_invited">To Be Invited</string>
+    <string name="logout">Logout</string>
+    <string name="not_invited">Not Invited</string>
+    <string name="sign_in">Sign In</string>
+
+
+</resources>
